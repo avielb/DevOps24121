@@ -29,24 +29,14 @@ if should_i_work_today:
 else:
     print("stay at home")
 
-my_list = [0]
-if len(my_list) > 0:
-    print("you have items")
-else:
-    print("no items in the list")
-
-string_len= len("ksadjfnkasjdf")
-aa = string_len + 1
-print(aa)
 
 my_other_list = ["or", "tohar", "adam"]
 my_other_name = "moshe"
 if my_other_name in my_other_list:
     print("i found you")
 
+print("avie")
 
-tt = 50
-rr = 50
-print(id(tt))
-print(id(rr))
+
+
 
